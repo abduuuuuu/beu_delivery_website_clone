@@ -552,3 +552,8 @@ footer .social{
                     border-bottom: 2px solid whitesmoke;
                 }
             }
+            @media screen and (max-width:690px){
+                .contact .contact-img{
+                    overflow-x: hidden;
+                }
+            }
